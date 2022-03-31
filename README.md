@@ -10,8 +10,8 @@
 ## Education:
 
 #### 1. [Universitas Komputer Indonesia](https://www.unikom.ac.id) | Bachelor of Information System | Bandung `2014-2019`
-   - Member of Glosarium Photograohy
-   - Tutor of Multimedia Program
+   - Member of Glosarium Photography
+   - Tutor of Multimedia Junior Program
  #### 2. [SMAN 1 Majalengka](https://www.smansa-mjl.sch.id) | SOCIAL | Majalengka `2011-2014`
    - Public Relation Division Ganesha Insan Computer
 
