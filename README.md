@@ -24,7 +24,7 @@
 #### 2. [Perpustakaan Kementrian Pertanian](https://perpustakaan.pertanian.go.id/) | Administrator | Bogor `2019-2019`
    - Digitation of book to Portable Document Format
    - Daily report loan of book
-   - 
+   - input data into database system
 #### 3. [PT. Bio Farma (Persero)](https://biofarma.co.id) | Student Internship | Bandung `2017-2017`
    - Documentation of program Physical Monitoring with UML diagram
    - Maintenance of computer and network
