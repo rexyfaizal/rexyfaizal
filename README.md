@@ -1,7 +1,7 @@
 # Hi there, I'm Rexy - aka [rexyfaizal](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
 ## About me:
 - 🔭 I’m currently jobseeker
-- 🌱 I’m currently learning Oracle and Javascript
+- 🌱 I’m currently learning Oracle and VBA
 - 👯 I’m looking to collaborate as Data Analyst
 - 🤔 I’m looking for suggest for Administration and Data Analyst
 - 💬 Ask me about anything
@@ -16,12 +16,16 @@
    - Public Relation Division Ganesha Insan Computer
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Feb'2020 - Mar'2021`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
+#### 1. [PT. Shoetown Ligung Indonesia](https://www.stg-id.co.id) | Team Lead Production | Majalengka `Feb'2020 - Mar'2021`
+   - Monitoring production activity
    - Responsible to improve production process
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
+   - Create daily report production routine
+#### 2. [Perpustakaan Kementrian Pertanian](https://perpustakaan.pertanian.go.id/) | Administrator | Bogor `2019-2019`
    - Manage to update CAD of distribution lines using AutoCAD
+   - Manage to recap fault in distribution network
+   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 3. [PT. Bio Farma](https://biofarma.co.id) | Student Internship | Bandung `2017-2017`
+   - Documentation of program Physical Monitoring with UML diagram
    - Manage to recap fault in distribution network
    - Research on Maintenance of 20 kV Cubicle in Pemalang
 ---
@@ -44,15 +48,15 @@
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/rexxxf#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/rexxxfn#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/rexyfaizal#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/rexyfaizal#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/rxfzl#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/rxfzl#gh-dark-mode-only)
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[webdev]: https://github.com/rexyfaizal/rexyfaizal
