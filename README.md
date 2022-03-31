@@ -25,7 +25,7 @@
    - Digitation of book to Portable Document Format
    - Daily report loan of book
    - 
-#### 3. [PT. Bio Farma](https://biofarma.co.id) | Student Internship | Bandung `2017-2017`
+#### 3. [PT. Bio Farma (Persero)](https://biofarma.co.id) | Student Internship | Bandung `2017-2017`
    - Documentation of program Physical Monitoring with UML diagram
    - Maintenance of computer and network
 ---
