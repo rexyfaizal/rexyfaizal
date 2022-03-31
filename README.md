@@ -1,25 +1,24 @@
 # Hi there, I'm Rexy - aka [rexyfaizal](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
 ## About me:
 - 🔭 I’m currently jobseeker
-- 🌱 I’m currently learning Python and Javascript
+- 🌱 I’m currently learning Oracle and Javascript
 - 👯 I’m looking to collaborate as Data Analyst
-- 🤔 I’m looking for suggest for Automation and Data Analyst
+- 🤔 I’m looking for suggest for Administration and Data Analyst
 - 💬 Ask me about anything
 - 📫 How to reach me: rexy.faizal@gmail.com
 
 ## Education:
 
 #### 1. [Universitas Komputer Indonesia](https://www.unikom.ac.id) | Bachelor of Information System | Bandung `2014-2019`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
+   - Member of Glosarium Photograohy
+   - Tutor of Multimedia Program
  #### 2. [SMA N 1 Majalengka](https://www.smansa-mjl.sch.id) | SOCIAL | Majalengka `2011-2014`
-   - Chief of Rohkris
+   - Public Relation Division Ganesha Insan Computer
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
+#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Feb'2020 - Mar'2021`
    - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
+   - Responsible to improve production process
    - Create Automation using Python and VBA Excel for day-to-day routine
 #### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
    - Manage to update CAD of distribution lines using AutoCAD
