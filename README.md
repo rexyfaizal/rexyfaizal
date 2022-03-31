@@ -12,22 +12,22 @@
 #### 1. [Universitas Komputer Indonesia](https://www.unikom.ac.id) | Bachelor of Information System | Bandung `2014-2019`
    - Member of Glosarium Photograohy
    - Tutor of Multimedia Program
- #### 2. [SMA N 1 Majalengka](https://www.smansa-mjl.sch.id) | SOCIAL | Majalengka `2011-2014`
+ #### 2. [SMAN 1 Majalengka](https://www.smansa-mjl.sch.id) | SOCIAL | Majalengka `2011-2014`
    - Public Relation Division Ganesha Insan Computer
 
 ## Work Experience:
 #### 1. [PT. Shoetown Ligung Indonesia](https://www.stg-id.co.id) | Team Lead Production | Majalengka `Feb'2020 - Mar'2021`
    - Monitoring production activity
    - Responsible to improve production process
-   - Create daily report production routine
+   - ensure daily target production
+   - Backup task of team member
 #### 2. [Perpustakaan Kementrian Pertanian](https://perpustakaan.pertanian.go.id/) | Administrator | Bogor `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+   - Digitation of book to Portable Document Format
+   - Daily report loan of book
+   - 
 #### 3. [PT. Bio Farma](https://biofarma.co.id) | Student Internship | Bandung `2017-2017`
    - Documentation of program Physical Monitoring with UML diagram
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+   - Maintenance of computer and network
 ---
 
 ### Languages and Tools:
