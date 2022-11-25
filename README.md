@@ -1,6 +1,6 @@
 # Hi there, I'm Rexy - aka [rexyfaizal](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
 ## About me:
-- 🔭 I’m currently jobseeker
+- 🔭 I’m currently Working at PT. Gistex Garment Indonesia
 - 🌱 I’m currently learning Oracle and VBA
 - 👯 I’m looking to collaborate as Data Analyst
 - 🤔 I’m looking for suggest for Administration and Data Analyst
@@ -16,16 +16,19 @@
    - Public Relation Division Ganesha Insan Computer
 
 ## Work Experience:
-#### 1. [PT. Shoetown Ligung Indonesia](https://www.stg-id.co.id) | Team Lead Production | Majalengka `Feb'2020 - Mar'2021`
+#### 1. [PT. Gistex Garment Indonesia](https://www.gistexgarmenindonesia.com/) | Data Analyst | Majalengka `May'2022 - Now`
+   - Create program with Visual Basic Studio
+   - Create Automation using VBA Excel for day-to-day routine
+#### 2. [PT. Shoetown Ligung Indonesia](https://www.stg-id.co.id) | Team Lead Production | Majalengka `Feb'2020 - Mar'2021`
    - Monitoring production activity
    - Responsible to improve production process
    - ensure daily target production
    - Backup task of team member
-#### 2. [Perpustakaan Kementrian Pertanian](https://perpustakaan.pertanian.go.id/) | Administrator | Bogor `2019-2019`
+#### 3. [Perpustakaan Kementrian Pertanian](https://perpustakaan.pertanian.go.id/) | Administrator | Bogor `2019-2019`
    - Digitation of book to Portable Document Format
    - Daily report loan of book
    - input data into database system
-#### 3. [PT. Bio Farma (Persero)](https://biofarma.co.id) | Student Internship | Bandung `2017-2017`
+#### 4. [PT. Bio Farma (Persero)](https://biofarma.co.id) | Student Internship | Bandung `2017-2017`
    - Documentation of program Physical Monitoring with UML diagram
    - Maintenance of computer and network
 ---
